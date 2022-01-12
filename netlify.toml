@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://stupefied-feynman-a44ce0.netlify.app/"
+  to = "https://www.ikagmoncton.ca/"
+  status = 301
+  force = true
