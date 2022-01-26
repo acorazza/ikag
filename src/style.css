@@ -1,5 +1,9 @@
-h1,h2,.nav-link {
-  font-family: 'News Cycle';
+h1,
+h2,
+h3,
+h4,
+.nav-link {
+  font-family: "News Cycle";
   font-weight: 700;
 }
 
