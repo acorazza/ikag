@@ -10,3 +10,14 @@ h4,
 .nav-link {
   text-transform: uppercase;
 }
+
+.skew-x {
+  transform: skewX(-5deg);
+  overflow: hidden;
+}
+
+.skew-x img {
+  transform: skewX(5deg);
+  position: relative;
+  left: -15%;
+}
